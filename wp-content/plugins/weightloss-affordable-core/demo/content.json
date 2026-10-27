@@ -1,0 +1,1394 @@
+{
+  "schemaVersion": 2,
+  "translationMode": "single-page-live-translator",
+  "navigationMode": "multi-page-real-routes",
+  "languages": [
+    "en",
+    "es"
+  ],
+  "assets": [
+    {
+      "key": "hero",
+      "file": "hero-care.jpg",
+      "alt": "A woman connecting with a healthcare professional in a calm video visit at home"
+    },
+    {
+      "key": "walk",
+      "file": "lifestyle-walk.jpg",
+      "alt": "Two adult friends walking together along a leafy neighborhood path"
+    },
+    {
+      "key": "nutrition",
+      "file": "nutrition.jpg",
+      "alt": "A colorful balanced meal prepared at home"
+    }
+  ],
+  "home": {
+    "top": "Clear information. A more confident next step.",
+    "topLang": "LIVE TRANSLATOR · EN / ES",
+    "nav": [
+      "Treatments",
+      "How it works",
+      "The science",
+      "Resources",
+      "Check eligibility"
+    ],
+    "navLinks": [
+      "/treatment-information",
+      "/how-it-works",
+      "/science-behind-treatment",
+      "/resources",
+      "/consultation-eligibility"
+    ],
+    "contactNavLink": "Check if you qualify",
+    "viewFullPage": "View the full page",
+    "explorePagesLabel": "Continue exploring other pages",
+    "explorePages": [
+      [
+        "/about",
+        "About Us",
+        "Our mission, role and editorial standards"
+      ],
+      [
+        "/weight-loss-services",
+        "Weight Loss Services",
+        "Five configurable service categories"
+      ],
+      [
+        "/treatment-information",
+        "Treatment Information",
+        "Responsible clinical education"
+      ],
+      [
+        "/how-it-works",
+        "How It Works",
+        "The transparent four-stage journey"
+      ],
+      [
+        "/pricing-and-packages",
+        "Pricing & Packages",
+        "Clearly marked plan placeholders"
+      ],
+      [
+        "/patient-reviews",
+        "Patient Reviews",
+        "Authentic voices, zero fabrication"
+      ],
+      [
+        "/frequently-asked-questions",
+        "FAQs",
+        "Nine topics answered in full"
+      ],
+      [
+        "/resources",
+        "Blog & Resources",
+        "Educational guides & articles"
+      ],
+      [
+        "/consultation-eligibility",
+        "Consultation & Eligibility",
+        "Safeguarded clinical pathway"
+      ],
+      [
+        "/contact",
+        "Contact Us",
+        "Send a general inquiry"
+      ],
+      [
+        "/science-behind-treatment",
+        "The science",
+        "Receptor information and safety context"
+      ],
+      [
+        "/video-stories",
+        "Video stories",
+        "Demo player and approved-story workflow"
+      ],
+      [
+        "/calculators",
+        "Calculators",
+        "Educational calculations only"
+      ],
+      [
+        "/semaglutide",
+        "Semaglutide",
+        "Treatment demo page · verify before publication"
+      ],
+      [
+        "/tirzepatide",
+        "Tirzepatide",
+        "Treatment demo page · verify before publication"
+      ]
+    ],
+    "ctaBandEyebrow": "YOUR NEXT STEP",
+    "ctaBandTitle": "Start with clear questions, not assumptions.",
+    "ctaBandBody": "Explore the eligibility questionnaire, then talk with a qualified healthcare professional. The demo quiz does not accept public submissions until its privacy and clinical workflow are approved.",
+    "ctaBandButton": "Open the eligibility quiz",
+    "ctaBandSecondary": "Explore treatment information",
+    "pagesMenuLabel": "Pages",
+    "pagesMenuGroups": [
+      {
+        "heading": "Treatments & journey",
+        "links": [
+          [
+            "/",
+            "Home"
+          ],
+          [
+            "/treatment-information",
+            "Our treatments"
+          ],
+          [
+            "/semaglutide",
+            "Semaglutide"
+          ],
+          [
+            "/tirzepatide",
+            "Tirzepatide"
+          ],
+          [
+            "/how-it-works",
+            "How it works"
+          ],
+          [
+            "/consultation-eligibility",
+            "Check eligibility"
+          ]
+        ]
+      },
+      {
+        "heading": "Learn & connect",
+        "links": [
+          [
+            "/science-behind-treatment",
+            "The science"
+          ],
+          [
+            "/patient-reviews",
+            "Transformations"
+          ],
+          [
+            "/video-stories",
+            "Video stories"
+          ],
+          [
+            "/resources",
+            "Resources"
+          ],
+          [
+            "/calculators",
+            "Calculators"
+          ],
+          [
+            "/frequently-asked-questions",
+            "FAQs"
+          ],
+          [
+            "/contact",
+            "Contact"
+          ]
+        ]
+      }
+    ],
+    "cta": "Check if you qualify",
+    "translatorLabel": "Translate site",
+    "translatorToast": "Translated entire website to English",
+    "heroEyebrow": "Your weight-management journey, at your pace",
+    "heroLines": [
+      "A clearer path,",
+      "care shaped",
+      "around you."
+    ],
+    "heroEmphasisLine": 1,
+    "heroEmphasisWord": "care shaped",
+    "heroAfterEmphasis": " around you.",
+    "heroBeforeEmphasis": "",
+    "heroBody": "Two medications. One community. Explore educational information, then speak with a licensed doctor who considers your medical history, BMI, and goals. Individual results vary.",
+    "heroPrimary": "Explore treatments",
+    "heroSecondary": "Check if you qualify",
+    "heroProof": [
+      [
+        "EN · ES",
+        "Instant live translator"
+      ],
+      [
+        "04",
+        "Clear first stages"
+      ],
+      [
+        "0",
+        "Medical details collected here"
+      ]
+    ],
+    "heroLangMini": "LIVE EN · ES",
+    "heroLangTitle": "Instant site translator",
+    "imageBadge": "Your goals. Your pace.",
+    "imageSub": "Information made easier to navigate",
+    "orbitText": "CLEAR INFORMATION • YOUR PACE • ",
+    "scrollLabel": "Scroll to explore",
+    "marqueeItems": [
+      "Clear information",
+      "Instant EN / ES translator",
+      "No pressure",
+      "Questions welcome",
+      "Your pace matters"
+    ],
+    "aboutEyebrow": "OUR POINT OF VIEW",
+    "aboutTitle": "Your goals deserve clarity, not pressure.",
+    "aboutBody": "Weight management involves different choices and personal decisions. Our goal is to present understandable information, honestly distinguish what is confirmed and what is not, and help you prepare thoughtful questions for a licensed healthcare professional.",
+    "aboutNote": "Company, pharmacy, clinical-partner, service, price, and outcome details remain demo material until verified by WeightLossAffordable and approved by the appropriate reviewers.",
+    "aboutLinkLabel": "Read full About Us page",
+    "servicesEyebrow": "WHAT YOU'LL FIND HERE",
+    "servicesTitle": "Helpful guidance, no guesswork.",
+    "servicesIntro": "These cards show possible areas of support. Confirm all clinical consultations, treatment availability, coverage, fees, and licensed providers before describing them as available.",
+    "services": [
+      {
+        "icon": "book",
+        "title": "Weight management education",
+        "tag": "Information",
+        "text": "Clear, plain-language guides to help you understand common approaches and prepare questions for a professional.",
+        "href": "/resources",
+        "cta": "Explore guides"
+      },
+      {
+        "icon": "heart",
+        "title": "Clinical care pathways",
+        "tag": "Availability to be confirmed",
+        "text": "Medical consultation, evaluation, and treatment depend on appropriately licensed professionals, state coverage, and individual clinical judgment.",
+        "href": "/treatment-information",
+        "cta": "See treatment framework"
+      },
+      {
+        "icon": "chat",
+        "title": "Guidance for your next step",
+        "tag": "General inquiry",
+        "text": "Use the step-by-step eligibility questionnaire only after reviewing the privacy notice. It is not a diagnosis or a promise of treatment.",
+        "href": "/consultation-eligibility",
+        "cta": "Check the process"
+      }
+    ],
+    "processWindowLeft": "Your informative tour",
+    "processWindowRight": "04 stages",
+    "processEyebrow": "A SIMPLE STARTING POINT",
+    "processTitle": "A clearer path, step by step.",
+    "processIntro": "This panel illustrates a four-stage informative journey inspired by the clarity of modern telemedicine. The eligibility questions use the original NuestraRx quiz configuration; clinical outcomes are decided by a licensed professional.",
+    "processChips": [
+      "Four clear stages",
+      "Original quiz flow",
+      "No medical admission"
+    ],
+    "steps": [
+      [
+        "01",
+        "Explore",
+        "Review plain-language guides and learn about possible service categories at your own pace.",
+        "Start here",
+        "Stage 01 · Explore"
+      ],
+      [
+        "02",
+        "Question",
+        "Complete the configured eligibility questions and ask for help if anything is unclear.",
+        "General guidance",
+        "Stage 02 · Consult"
+      ],
+      [
+        "03",
+        "Confirm",
+        "Check which services, covered states, fees, and licensed doctors are actually available.",
+        "Check first",
+        "Stage 03 · Confirm"
+      ],
+      [
+        "04",
+        "Decide",
+        "Read verified terms and talk to a qualified healthcare professional before deciding.",
+        "Your choice",
+        "Stage 04 · Decide"
+      ]
+    ],
+    "processProgressLabel": "Journey stage",
+    "processFootnote": "Clinical eligibility, diagnosis, and prescribing decisions are made by licensed healthcare professionals. Completing a quiz does not guarantee care or a prescription.",
+    "processCta": "Start the eligibility quiz",
+    "approachEyebrow": "THE SCIENCE BEHIND THE TREATMENT",
+    "approachTitle": "Two medicines. Different receptor activity.",
+    "approachPhotoCaption": "Information, not a treatment promise.",
+    "approachBody": "Semaglutide is a GLP-1 receptor agonist. Tirzepatide acts on GLP-1 and GIP receptors. The medicines and compounded preparations are not interchangeable. A licensed doctor must review your medical history, BMI, goals, and current evidence before making any care decision.",
+    "approachBullets": [
+      "GLP-1 is a receptor class extensively described in peer-reviewed scientific literature.",
+      "Tirzepatide acts on GLP-1 and GIP receptors.",
+      "Preparation, pharmacy licensing, dose titration, availability, and safety details must be verified for the actual service."
+    ],
+    "approachButton": "Review treatment information",
+    "pricingEyebrow": "TREATMENT OPTIONS",
+    "pricingTitle": "Two medications. One community.",
+    "pricingBody": "The treatment cards below show client-supplied demo text and prices. Confirm the current source-of-truth catalog and all clinical, pharmacy, pricing, and legal details before publishing.",
+    "pricingStatus": "DEMO PRICING · REVIEW REQUIRED",
+    "pricingSub": "No treatment or price is guaranteed",
+    "pricingRows": [
+      [
+        "Semaglutide",
+        "Demo: from $139/mo · verify"
+      ],
+      [
+        "Tirzepatide",
+        "Demo: from $239/mo · verify"
+      ],
+      [
+        "Eligibility",
+        "Determined by a licensed physician"
+      ]
+    ],
+    "pricingButton": "Review treatment details",
+    "pricingNote": "Demo figures supplied for layout. Verify current total costs, billing terms, eligibility and pharmacy details before publication.",
+    "resourcesEyebrow": "LEARN AT YOUR OWN PACE",
+    "resourcesTitle": "Questions worth exploring.",
+    "resourcesLead": "Select an educational guide to explore practical questions and prepare for a conversation with a healthcare professional.",
+    "resourcesAllLink": "Open full resource library",
+    "resourceFeaturedLabel": "Featured educational guide",
+    "resourceGuideBadge": "Editorial guide",
+    "resourceReadButton": "Read full guide",
+    "resourceAskButton": "Ask about this topic",
+    "resourceQuestionsHeading": "Questions to bring",
+    "resourceQuestionsNote": "Educational conversation starters — not medical advice.",
+    "resourceEditorialTitle": "Better questions create calmer conversations.",
+    "resourceEditorialBody": "Use these non-prescriptive guides to organize what matters most before speaking with an appropriately qualified clinician.",
+    "resourceStrip": [
+      "Prepare clear questions",
+      "Check authoritative sources",
+      "Understand benefits & limits",
+      "Instant English & Spanish switch"
+    ],
+    "resources": [
+      {
+        "slug": "questions-for-a-weight-management-conversation",
+        "title": "What does a weight-management conversation include?",
+        "category": "Getting started",
+        "readTime": "4 min read",
+        "prompt": "Prepare for a thoughtful first conversation",
+        "text": "A practical framework for organizing your goals, expectations, and questions before speaking with a qualified healthcare professional.",
+        "questions": [
+          "Which evidence-based options fit my health priorities?",
+          "What realistic benefits, risks, and limitations apply?",
+          "How does ongoing follow-up and clinical support work?"
+        ],
+        "paragraphs": [
+          "Preparing a short list of questions ahead of an appointment can make a healthcare conversation calmer, clearer, and far more productive.",
+          "Start by asking who provides clinical care, how professional licensure is verified, what an evaluation involves, and whether follow-up support is included over time.",
+          "If prescription treatments are discussed, ask your clinician to explain how a medication class works, whether a product is FDA-approved or compounded, potential side effects, contraindications, and non-medication alternatives.",
+          "Request clear written information on total costs, billing frequency, cancellation policies, and privacy protections before sharing payment details or sensitive records."
+        ],
+        "disclaimer": "Educational draft only — not individualized medical advice. Review with a qualified healthcare professional before publication.",
+        "topicValue": "services",
+        "image": "/images/hero-care.jpg",
+        "alt": "A woman speaking with a healthcare professional during a calm video visit at home"
+      },
+      {
+        "slug": "building-everyday-wellbeing-at-your-own-pace",
+        "title": "Small, practical habits that support everyday wellbeing",
+        "category": "Everyday wellbeing",
+        "readTime": "3 min read",
+        "prompt": "Build sustainable routines without all-or-nothing rules",
+        "text": "Ideas for discussing movement, balanced meals, rest, and daily routines in ways that respect real life and individual health needs.",
+        "questions": [
+          "Which one small habit feels realistic for my schedule this week?",
+          "How can balanced meals support steady daily energy?",
+          "What kind of accountability feels supportive rather than stressful?"
+        ],
+        "paragraphs": [
+          "Sustainable wellbeing rarely comes from rigid, punitive routines. Work schedules, family caregiving, culture, sleep, stress, and medical history all shape what works in everyday life.",
+          "Many clinicians encourage focusing on approachable, repeatable habits — such as regular meals with adequate protein and fiber, enjoyable walking or gentle movement, and consistent sleep routines.",
+          "Avoid programs that promise identical weight loss for every person or frame health around guilt. Meaningful progress looks different from person to person.",
+          "Bring your real schedule and preferences into the conversation with a licensed clinician or registered dietitian so any plan fits your life."
+        ],
+        "disclaimer": "General wellness education draft only. Always consult a qualified healthcare professional before changing exercise, nutrition, or medical plans.",
+        "topicValue": "general",
+        "image": "/images/lifestyle-walk.jpg",
+        "alt": "Two adult friends smiling and walking together along a leafy neighborhood path"
+      },
+      {
+        "slug": "how-to-evaluate-health-information-online",
+        "title": "How to evaluate telehealth & weight-loss claims online",
+        "category": "Health literacy",
+        "readTime": "4 min read",
+        "prompt": "Spot trustworthy transparency vs. unsupported hype",
+        "text": "Essential questions to ask about authorship, clinical evidence, medication disclosures, pricing clarity, and privacy safeguards.",
+        "questions": [
+          "Who wrote and clinically reviewed the information on this page?",
+          "Are risks, contraindications, and limitations stated clearly?",
+          "Where is sensitive health data collected and how is it protected?"
+        ],
+        "paragraphs": [
+          "Online weight-management websites vary widely in transparency. Taking two minutes to check how information is presented can protect both your health and your wallet.",
+          "Look for clear identification of independent licensed medical providers, honest distinction between FDA-approved medications and compounded preparations, and realistic explanations that not every visitor qualifies for prescription treatment.",
+          "Be cautious of countdown timers, guaranteed weight-loss numbers, unverified before-and-after claims, or ordinary contact forms asking for your medical history.",
+          "Any true medical intake should take place only on an appropriately secured healthcare platform after clear privacy disclosures."
+        ],
+        "disclaimer": "Educational health-literacy draft only. Does not endorse or verify any specific provider, pharmacy, or treatment.",
+        "topicValue": "website",
+        "image": "/images/nutrition.jpg",
+        "alt": "A colorful balanced meal with salmon, greens, grains, and avocado prepared at home"
+      }
+    ],
+    "reviewsEyebrow": "REAL TRANSFORMATIONS · WITH PERMISSION",
+    "reviewsTitle": "Before and after stories belong to the people who lived them.",
+    "reviewsBody": "This demo contains no patient photographs, results, or testimonials. Add only genuine stories with documented consent, context, substantiation, and required clinical/legal review.",
+    "reviewBadge": "Story slots reserved · no patient stories included",
+    "reviewCaption": "Placeholder layout only. No before-and-after image or weight-loss result is fabricated.",
+    "reviewsLink": "Review the story and consent requirements",
+    "faqEyebrow": "GOOD QUESTIONS",
+    "faqTitle": "Clear answers before you decide.",
+    "faqIntro": "Use this information to prepare questions for a licensed healthcare professional. Details must be confirmed for the actual service.",
+    "faqAllLink": "Open complete FAQ page",
+    "faqs": [
+      [
+        "What treatments are shown in this demo?",
+        "Semaglutide and tirzepatide are shown as client-supplied demo copy. A doctor would recommend an option only after reviewing medical history, BMI, goals, and clinical appropriateness."
+      ],
+      [
+        "Are the demo prices current?",
+        "The demo cards show the figures supplied for this design: from $139/month for semaglutide and from $239/month for tirzepatide, with comparison prices of $199 and $299. Verify the live catalog, billing terms, and legal presentation before publication."
+      ],
+      [
+        "What does compounded mean?",
+        "The supplied demo describes compounded preparations. Pharmacy, preparation, licensing, and dispensing details must be confirmed with the actual pharmacy and reviewed by qualified clinical and legal reviewers before use."
+      ],
+      [
+        "Does the eligibility quiz diagnose me or guarantee a prescription?",
+        "No. The original NuestraRx questionnaire is a screening/intake workflow, not a diagnosis or guarantee of eligibility or prescribing. A licensed clinician makes clinical decisions. Public submissions remain disabled until privacy, security, consent, and handoff configuration are reviewed."
+      ],
+      [
+        "Can I submit health information in this demo?",
+        "No. Public quiz submissions are disabled by default. Do not enter real health information in an unconfigured demo. Enable submissions only after security, privacy, consent, clinical review, and downstream routing are verified."
+      ],
+      [
+        "Where do video and transformation stories come from?",
+        "No patient story is included. The playable clip is generic stock sample footage, not a testimonial. Publish real stories only with documented permission and all required review."
+      ]
+    ],
+    "contactEyebrow": "WE'RE HERE TO HELP YOU FIND INFORMATION",
+    "contactTitle": "What would you like to know?",
+    "contactBody": "Send a general, non-clinical question. Contact details and service information shown in this demo are placeholders; configure verified business email delivery before launch.",
+    "contactChecks": [
+      "General questions only",
+      "No medical intake",
+      "Instant confirmation"
+    ],
+    "formHeadTitle": "General inquiry",
+    "formHeadSub": "Non-clinical website questions",
+    "formName": "Your name",
+    "formNamePlaceholder": "Elena Morales",
+    "formEmail": "Email address",
+    "formEmailPlaceholder": "elena@example.com",
+    "formTopic": "What is your question about?",
+    "topicOptions": [
+      [
+        "general",
+        "General information"
+      ],
+      [
+        "services",
+        "Services and availability"
+      ],
+      [
+        "language",
+        "English / Spanish support"
+      ],
+      [
+        "website",
+        "Website or Elementor setup"
+      ]
+    ],
+    "consent": "I agree to be contacted about this general inquiry and confirm I am not submitting health or medical information.",
+    "formButton": "Send general inquiry",
+    "formPrivacy": "Please do not share medical history, symptoms, or medications here. This form is strictly for general non-clinical inquiries.",
+    "sending": "Sending inquiry…",
+    "success": "Thank you — your general inquiry has been saved. Configure verified business email routing prior to public launch.",
+    "error": "We couldn't submit that request right now. Please check all required fields and try again.",
+    "footerText": "Clear information for a more confident next step.",
+    "footerExploreHeading": "EXPLORE",
+    "footerInfoHeading": "LEGAL & COMPLIANCE",
+    "footerExploreLinks": [
+      [
+        "/treatment-information",
+        "Our treatments"
+      ],
+      [
+        "/semaglutide",
+        "Semaglutide"
+      ],
+      [
+        "/tirzepatide",
+        "Tirzepatide"
+      ],
+      [
+        "/how-it-works",
+        "How it works"
+      ],
+      [
+        "/science-behind-treatment",
+        "The science"
+      ],
+      [
+        "/patient-reviews",
+        "Transformations"
+      ],
+      [
+        "/video-stories",
+        "Video stories"
+      ],
+      [
+        "/resources",
+        "Resources"
+      ],
+      [
+        "/consultation-eligibility",
+        "Check eligibility"
+      ],
+      [
+        "/calculators",
+        "Calculators"
+      ],
+      [
+        "/frequently-asked-questions",
+        "FAQs"
+      ]
+    ],
+    "footerLegalLinks": [
+      [
+        "/privacy-policy",
+        "Privacy Policy (Draft)"
+      ],
+      [
+        "/terms-and-conditions",
+        "Terms & Conditions (Draft)"
+      ],
+      [
+        "/medical-disclaimer",
+        "Medical Disclaimer (Draft)"
+      ],
+      [
+        "/treatment-safety-information",
+        "Treatment Safety Info (Draft)"
+      ],
+      [
+        "/cookie-policy",
+        "Cookie Policy (Draft)"
+      ],
+      [
+        "/accessibility-statement",
+        "Accessibility Statement (Draft)"
+      ],
+      [
+        "/refund-cancellation-policy",
+        "Refund & Cancellation (Draft)"
+      ]
+    ],
+    "footerDisclaimer": "Demo content only. Services, clinical partners, pricing, and legal terms must be verified and reviewed before publication. Not medical advice.",
+    "rights": "© 2026 WeightLossAffordable.com. All rights reserved.",
+    "videosTitle": "Video stories, shared with care",
+    "videosIntro": "The playable sample is stock footage, not a testimonial. Replace it with a genuine, consented and reviewed patient video before publication.",
+    "treatmentTitle": "Our treatments",
+    "treatmentIntro": "Two medications. One community. Your doctor will recommend the right treatment based on your medical history, BMI, and goals. Both are described here as prepared in U.S. licensed 503A pharmacies. Individual results vary. Demo copy and prices require verification before publication.",
+    "resultsTitle": "Real transformations, before and after",
+    "resultsIntro": "Story slots are included to show the design. This package contains no patient photos or outcome claims; add only consented, substantiated stories after review.",
+    "videoTitle": "Video stories",
+    "videoIntro": "A playable sample video demonstrates the layout only. It is stock footage, not a patient story."
+  },
+  "subpages": [
+    {
+      "slug": "about",
+      "eyebrow": "ABOUT WEIGHTLOSSAFFORDABLE",
+      "title": "Clarity, respect, and honest health literacy.",
+      "lead": "WeightLossAffordable.com is built around a straightforward principle: adults exploring weight management deserve calm, plain-language education and transparent business disclosures before any commitment.",
+      "badge": "Placeholder company profile — verify before launch",
+      "image": "/images/lifestyle-walk.jpg",
+      "imageAlt": "Two adult women enjoying a morning walk along a neighborhood trail",
+      "sections": [
+        {
+          "eyebrow": "01 · MISSION & ROLE",
+          "heading": "Our approach to accessible weight-management information.",
+          "body": "Company ownership, legal entity details, clinical partnerships, and operating states have not yet been supplied for this demo. Replace these placeholders with verified business facts before going live — never invent credentials or medical licenses.",
+          "cards": [
+            {
+              "tag": "Education first",
+              "title": "Plain-language clarity",
+              "body": "Explain complex weight-management topics in approachable English and Spanish without replacing individualized clinical advice."
+            },
+            {
+              "tag": "Transparency",
+              "title": "Clear clinical boundaries",
+              "body": "State plainly whether the business is an educational platform, administrative coordinator, or connected to independent licensed medical groups."
+            },
+            {
+              "tag": "Respect",
+              "title": "Zero pressure or hype",
+              "body": "Avoid countdown timers, guaranteed weight-loss promises, or unverified before-and-after claims."
+            }
+          ],
+          "notice": "Verified care-team bios, state medical group affiliations, and pharmacy disclosures must be confirmed prior to publication."
+        }
+      ],
+      "ctaHeading": "Have a general question about our platform?",
+      "ctaBody": "Send a non-clinical message to request verified business information.",
+      "ctaButton": "Contact our team",
+      "ctaHref": "/contact"
+    },
+    {
+      "slug": "weight-loss-services",
+      "eyebrow": "WEIGHT LOSS SERVICES",
+      "title": "Potential service categories — structured for clarity.",
+      "lead": "Each service card below is editable in Elementor and clearly marked as pending business confirmation until verified offerings go live.",
+      "badge": "Service availability pending business confirmation",
+      "image": "/images/hero-care.jpg",
+      "imageAlt": "A woman speaking with a healthcare professional during a video visit",
+      "sections": [
+        {
+          "eyebrow": "01 · CONFIGURABLE SERVICE CARDS",
+          "heading": "Five core service modules ready for verified details.",
+          "body": "Do not publish an unconfirmed category as active. Enable only the modules offered by your verified clinical model.",
+          "cards": [
+            {
+              "tag": "Pending confirmation",
+              "title": "Medical weight-management consultations",
+              "body": "Virtual or in-person clinical evaluations conducted solely by independent licensed healthcare professionals where available.",
+              "bullets": [
+                "Licensed clinician review",
+                "State-specific availability check",
+                "Individualized assessment"
+              ]
+            },
+            {
+              "tag": "Pending confirmation",
+              "title": "Personalized weight-management plans",
+              "body": "Tailored care plans built around individual health history, goals, preferences, and clinical appropriateness.",
+              "bullets": [
+                "Realistic habit milestones",
+                "Clinician-guided adjustments",
+                "Clear written scope"
+              ]
+            },
+            {
+              "tag": "Pending confirmation",
+              "title": "Prescription treatment information",
+              "body": "Educational overview of prescription options when offered. Prescriptions are never guaranteed and require licensed clinical approval.",
+              "bullets": [
+                "FDA-approved vs. compounded distinction",
+                "Safety & risk disclosures",
+                "No guaranteed prescriptions"
+              ]
+            },
+            {
+              "tag": "Pending confirmation",
+              "title": "Lifestyle & nutrition education",
+              "body": "Practical, non-judgmental educational guides covering balanced meals, movement, sleep, and questions for your care team.",
+              "bullets": [
+                "Bilingual EN / ES guides",
+                "Evidence-informed reading",
+                "Everyday sustainability"
+              ]
+            },
+            {
+              "tag": "Pending confirmation",
+              "title": "Ongoing follow-up & support",
+              "body": "Structured check-ins, question routing, and care coordination if included in confirmed business packages.",
+              "bullets": [
+                "Defined response windows",
+                "Clear escalation pathways",
+                "Transparent billing"
+              ]
+            }
+          ]
+        }
+      ],
+      "ctaHeading": "Review how clinical eligibility decisions are safeguarded.",
+      "ctaBody": "Explore our consultation landing page template or send a general question.",
+      "ctaButton": "View consultation & eligibility",
+      "ctaHref": "/consultation-eligibility"
+    },
+    {
+      "slug": "treatment-information",
+      "eyebrow": "TREATMENT INFORMATION",
+      "title": "Two medications. One community.",
+      "lead": "Explore the client-supplied treatment demo, then review the verified treatment source and ask a licensed doctor about clinical appropriateness.",
+      "badge": "Illustrative clinical placeholders — clinician approval required",
+      "image": "/images/nutrition.jpg",
+      "imageAlt": "Balanced home meal with salmon, leafy greens, grains, and avocado",
+      "sections": [
+        {
+          "eyebrow": "01 · CONFIGURABLE TREATMENT CARDS",
+          "heading": "Structured fields for safe, compliant clinical literacy.",
+          "body": "Never claim that compounded medications are FDA-approved or bioequivalent to branded drugs, and never promise prescriptions or guaranteed weight loss.",
+          "cards": [
+            {
+              "tag": "Illustrative template · Class overview",
+              "title": "[PLACEHOLDER] GLP-1 Receptor Agonist Education",
+              "body": "General educational slot for explaining incretin-pathway appetite and satiety signaling using peer-reviewed medical sources approved by your medical director.",
+              "bullets": [
+                "How it works: Targets appetite & satiety signaling pathways",
+                "Eligibility: Determined solely by a licensed clinician after full evaluation",
+                "Safety note: Must display full boxed warnings, thyroid C-cell contraindications & GI risks",
+                "Important distinction: Clearly separate FDA-approved products from 503A/503B compounded preparations"
+              ]
+            },
+            {
+              "tag": "Illustrative template · Dual pathway",
+              "title": "[PLACEHOLDER] Dual GIP / GLP-1 Pathway Education",
+              "body": "Configurable card for dual-receptor educational literacy, expected limitations, titration guidance, and urgent-symptom instructions.",
+              "bullets": [
+                "How it works: Dual incretin receptor educational overview",
+                "Limitations: Individual responses vary; weight regain can occur if stopped without planning",
+                "Safety note: Never adjust dosing without licensed prescriber supervision",
+                "Urgent care: Seek immediate emergency care for severe abdominal pain or allergic reactions"
+              ]
+            },
+            {
+              "tag": "Illustrative template · Non-pharmacologic",
+              "title": "[PLACEHOLDER] Nutrition, Movement & Behavioral Support",
+              "body": "Foundational lifestyle and metabolic habits that support overall wellbeing alongside or independent of medication.",
+              "bullets": [
+                "Protein & fiber-forward meal planning discussions",
+                "Accessible walking & strength-preservation habits",
+                "Sleep, stress, and sustainable routine support"
+              ]
+            }
+          ],
+          "notice": "Clinical safeguard: All demo medication copy is illustrative only and must be reviewed against current FDA labeling and state rules before launch."
+        }
+      ],
+      "ctaHeading": "Questions about how consultation pathways work?",
+      "ctaBody": "Read our step-by-step journey overview or send a general non-clinical question.",
+      "ctaButton": "See how it works",
+      "ctaHref": "/how-it-works"
+    },
+    {
+      "slug": "how-it-works",
+      "eyebrow": "HOW IT WORKS",
+      "title": "A transparent four-stage journey.",
+      "lead": "Configure these four editable steps in Elementor to match your verified workflow once clinical partners and intake systems are connected.",
+      "badge": "Editable 4-step workflow template",
+      "sections": [
+        {
+          "eyebrow": "01 · STEP-BY-STEP JOURNEY",
+          "heading": "From first question to informed decision.",
+          "body": "No unverified intake or fake approval screen is shown here — every stage explains clearly what happens next.",
+          "steps": [
+            [
+              "01",
+              "Explore",
+              "Browse service categories, educational guides, and transparent disclosures in English or Spanish.",
+              "Step 01",
+              "Explore options"
+            ],
+            [
+              "02",
+              "Complete intake",
+              "When connected to a HIPAA-compliant external platform, submit health history securely for clinical review.",
+              "Step 02",
+              "Secure platform"
+            ],
+            [
+              "03",
+              "Clinician review",
+              "An independent licensed healthcare professional evaluates eligibility, risks, and appropriate options.",
+              "Step 03",
+              "Licensed review"
+            ],
+            [
+              "04",
+              "Ongoing care",
+              "Follow your agreed personalized plan and scheduled follow-ups with clear support channels.",
+              "Step 04",
+              "Follow-up"
+            ]
+          ]
+        }
+      ],
+      "ctaHeading": "Ready to review transparent package placeholders?",
+      "ctaBody": "Inspect how monthly and multi-month plans are structured without hidden fees.",
+      "ctaButton": "View pricing & packages",
+      "ctaHref": "/pricing-and-packages"
+    },
+    {
+      "slug": "pricing-and-packages",
+      "eyebrow": "PRICING & PACKAGES",
+      "title": "Treatment options and pricing",
+      "lead": "The two sample treatment cards display client-supplied demo prices only. Confirm live prices, billing terms and treatment records before publishing.",
+      "badge": "Demo pricing placeholders — not live offers",
+      "sections": [
+        {
+          "eyebrow": "01 · PACKAGE COMPARISON CARDS",
+          "heading": "Transparent structure for inclusions, exclusions & billing.",
+          "body": "Every package card exposes price, billing cadence, included services, exclusions, and eligibility notes in Elementor.",
+          "cards": [
+            {
+              "tag": "Demo placeholder · Tier 01",
+              "title": "Educational & Lifestyle Plan",
+              "pricePlaceholder": "$[XX] / mo",
+              "billingPlaceholder": "Demo placeholder · Confirm billing frequency",
+              "body": "Illustrative entry tier showing how non-clinical coaching or educational memberships can be presented clearly.",
+              "bullets": [
+                "Included: [Confirm educational & support inclusions]",
+                "Exclusions: Prescriptions, lab work, and clinical visits unless stated",
+                "Eligibility: Adults meeting confirmed program terms"
+              ]
+            },
+            {
+              "tag": "Demo placeholder · Featured tier",
+              "title": "Clinician-Guided Program",
+              "pricePlaceholder": "$[XXX] / mo",
+              "billingPlaceholder": "Demo placeholder · Subject to clinical eligibility",
+              "featured": true,
+              "body": "Highlighted featured card layout ready for verified consultation, follow-up, and pharmacy fulfillment terms.",
+              "bullets": [
+                "Included: [Confirm consultation & follow-up scope]",
+                "Additional charges: [State medication, lab, or shipping fees clearly]",
+                "Eligibility: Requires independent licensed clinician approval"
+              ]
+            },
+            {
+              "tag": "Demo placeholder · Tier 03",
+              "title": "Comprehensive Follow-Up Plan",
+              "pricePlaceholder": "$[XXX] / mo",
+              "billingPlaceholder": "Demo placeholder · Confirm multi-month terms",
+              "body": "Configurable tier for ongoing check-ins, nutrition education, and care coordination.",
+              "bullets": [
+                "Included: [Confirm check-in cadence & support channels]",
+                "Exclusions: [List state restrictions & non-covered items]",
+                "Cancellation: [Link verified written refund/cancellation policy]"
+              ]
+            }
+          ],
+          "notice": "Important: Demo placeholder figures ($[XX] / $[XXX]) are non-binding examples and cannot be used for checkout until verified."
+        }
+      ],
+      "ctaHeading": "Want written confirmation when live pricing launches?",
+      "ctaBody": "Send a general inquiry and our team can follow up with verified details.",
+      "ctaButton": "Ask about availability",
+      "ctaHref": "/contact"
+    },
+    {
+      "slug": "patient-reviews",
+      "eyebrow": "PATIENT REVIEWS & TESTIMONIALS",
+      "title": "Real transformations, before and after",
+      "lead": "This section provides layout slots only. No patient outcomes, photographs, names or testimonials are invented for the demo.",
+      "badge": "Fictional layout samples — NOT real patient testimonials",
+      "sections": [
+        {
+          "eyebrow": "01 · CLEARLY LABELED SAMPLE CARDS",
+          "heading": "Replace every sample card with documented, authorized feedback.",
+          "body": "Never publish unverified weight-loss numbers, stock photos presented as patients, or unapproved clinical claims.",
+          "cards": [
+            {
+              "tag": "FICTIONAL DEMO SAMPLE · ★★★★★",
+              "title": "[Sample Layout Card #1 — Not a Real Patient]",
+              "body": "“Illustrative layout text showing how an authorized review about clear bilingual communication and respectful support will appear once verified.”",
+              "bullets": [
+                "Disclosure: Sample placeholder text only",
+                "Individual experiences vary"
+              ]
+            },
+            {
+              "tag": "FICTIONAL DEMO SAMPLE · ★★★★★",
+              "title": "[Sample Layout Card #2 — Not a Real Patient]",
+              "body": "“Illustrative layout text demonstrating multi-line quote typography, reviewer initials, and required FTC/healthcare disclosure formatting.”",
+              "bullets": [
+                "Disclosure: Sample placeholder text only",
+                "Replace prior to launch"
+              ]
+            },
+            {
+              "tag": "FICTIONAL DEMO SAMPLE · ★★★★★",
+              "title": "[Sample Layout Card #3 — Not a Real Patient]",
+              "body": "“Illustrative layout text showing how non-clinical feedback on website clarity and transparent pricing disclosures renders on mobile and desktop.”",
+              "bullets": [
+                "Disclosure: Sample placeholder text only",
+                "Written permission required"
+              ]
+            }
+          ]
+        }
+      ],
+      "ctaHeading": "Have questions about compliance or content editing?",
+      "ctaBody": "Reach out through our general inquiry form.",
+      "ctaButton": "Send general inquiry",
+      "ctaHref": "/contact"
+    },
+    {
+      "slug": "frequently-asked-questions",
+      "eyebrow": "FREQUENTLY ASKED QUESTIONS",
+      "title": "Clear answers across all nine key topics.",
+      "lead": "Every question and answer below switches instantly between English and Spanish and is fully editable in Elementor.",
+      "badge": "9 core FAQ topics · Instant EN / ES",
+      "sections": [
+        {
+          "eyebrow": "01 · COMPLETE FAQ ACCORDION",
+          "heading": "Service, eligibility, pricing, privacy & safety questions.",
+          "body": "Review and tailor each draft answer with your clinical and legal advisers before going live.",
+          "faqs": [
+            [
+              "How does WeightLossAffordable.com work?",
+              "This demo site provides plain-language weight-management education and configurable telehealth templates. Confirmed live workflows must be verified before launch."
+            ],
+            [
+              "What are the consultation requirements?",
+              "If clinical consultations are offered, visitors must meet age and state-residency rules and complete a secure medical intake reviewed by an independent licensed clinician."
+            ],
+            [
+              "How is treatment eligibility determined?",
+              "Only a qualified, state-licensed healthcare professional can evaluate medical history, BMI/metabolic criteria, contraindications, and determine whether any treatment is appropriate."
+            ],
+            [
+              "How do pricing and billing work?",
+              "Demo prices are placeholders only. Live packages must state total monthly cost, what is included, any separate medication/lab fees, and billing intervals upfront."
+            ],
+            [
+              "How does shipping or pharmacy delivery work, if applicable?",
+              "Shipping timelines, cold-chain handling, and licensed pharmacy fulfillment apply only if prescription services are confirmed and authorized in your state."
+            ],
+            [
+              "How is personal privacy protected?",
+              "Our website contact form collects only name, email, and general topic — never medical data. Sensitive health information requires a dedicated HIPAA-compliant platform."
+            ],
+            [
+              "What safety information and side effects should I know about?",
+              "All prescription weight-loss medications carry risks and contraindications. Always review FDA-approved labeling and discuss urgent warning signs with a licensed clinician."
+            ],
+            [
+              "How can I reach customer support?",
+              "Verified support email, phone, and business hours should be published on the Contact page before launch."
+            ],
+            [
+              "What are the cancellation and refund policies?",
+              "Cancellation windows and refund rules are currently draft placeholders and must be finalized in writing prior to accepting payments."
+            ]
+          ]
+        }
+      ],
+      "ctaHeading": "Didn't find what you were looking for?",
+      "ctaBody": "Send a general non-clinical inquiry anytime.",
+      "ctaButton": "Ask a general question",
+      "ctaHref": "/contact"
+    },
+    {
+      "slug": "resources",
+      "eyebrow": "BLOG & EDUCATIONAL RESOURCES",
+      "title": "Evidence-minded wellness & health literacy guides.",
+      "lead": "Explore our sample educational articles below — written with calm, medically responsible language in both English and Spanish.",
+      "badge": "3 sample articles · Instant EN / ES translation",
+      "sections": [
+        {
+          "eyebrow": "01 · EDITORIAL STANDARDS",
+          "heading": "How our educational articles are structured.",
+          "body": "Every article highlights practical questions to discuss with a qualified clinician, avoids miracle promises, and carries clear educational disclaimers."
+        }
+      ],
+      "ctaHeading": "Want to suggest an educational topic?",
+      "ctaBody": "Let us know which questions would be most helpful to cover next.",
+      "ctaButton": "Suggest a topic",
+      "ctaHref": "/contact"
+    },
+    {
+      "slug": "consultation-eligibility",
+      "eyebrow": "CONSULTATION & ELIGIBILITY",
+      "title": "Check if you qualify",
+      "lead": "The original NuestraRx step-by-step questionnaire is included. It is a screening workflow, not a diagnosis or prescription. Public submissions are disabled until privacy, security and clinical routing are verified.",
+      "badge": "Compliant pre-consultation landing page",
+      "image": "/images/hero-care.jpg",
+      "imageAlt": "Video telehealth conversation in a bright home setting",
+      "sections": [
+        {
+          "eyebrow": "01 · CLINICAL SAFEGUARDS",
+          "heading": "Four safeguards built into the consultation journey.",
+          "body": "Connect your verified HIPAA-compliant intake URL to the primary CTA button in Elementor when ready.",
+          "steps": [
+            [
+              "01",
+              "Confirm state & age",
+              "Verify operating states and adult age requirements before starting intake.",
+              "Safeguard 01",
+              "Jurisdiction check"
+            ],
+            [
+              "02",
+              "Consent & privacy",
+              "Present clear telehealth informed consent and HIPAA privacy disclosures upfront.",
+              "Safeguard 02",
+              "Informed consent"
+            ],
+            [
+              "03",
+              "Secure clinical intake",
+              "Route health history exclusively through a compliant medical platform — never standard WP forms.",
+              "Safeguard 03",
+              "HIPAA platform"
+            ],
+            [
+              "04",
+              "Independent clinician decision",
+              "Prescribing and eligibility belong 100% to licensed healthcare professionals.",
+              "Safeguard 04",
+              "Clinical autonomy"
+            ]
+          ],
+          "notice": "Integration note: Replace the CTA destination in Elementor with your verified third-party patient portal URL once credentials and BAA agreements are in place."
+        }
+      ],
+      "ctaHeading": "Have a general question before services launch?",
+      "ctaBody": "Use our general non-clinical contact form below.",
+      "ctaButton": "Go to general inquiry form",
+      "ctaHref": "/contact"
+    },
+    {
+      "slug": "contact",
+      "eyebrow": "CONTACT US",
+      "title": "Get in touch with a general question.",
+      "lead": "Use the form below for general website, service-availability, or language inquiries. Please do not submit personal health or medical details.",
+      "badge": "Non-clinical general inquiry inbox",
+      "sections": [
+        {
+          "eyebrow": "01 · VERIFIED CONTACT PLACEHOLDERS",
+          "heading": "Business contact channels (to be verified before launch).",
+          "body": "Populate verified support details below in Elementor once confirmed by WeightLossAffordable.",
+          "cards": [
+            {
+              "tag": "Email support",
+              "title": "[Pending Verification]",
+              "body": "Replace with verified business email (e.g., support@weightlossaffordable.com) and test SMTP delivery."
+            },
+            {
+              "tag": "Phone & hours",
+              "title": "[Pending Verification]",
+              "body": "Publish verified support phone number and operating hours with time zone once active."
+            },
+            {
+              "tag": "Privacy boundary",
+              "title": "General inquiries only",
+              "body": "Protected health information is never collected through general website forms. Call 911 for medical emergencies."
+            }
+          ]
+        }
+      ],
+      "ctaHeading": "Looking for quick answers first?",
+      "ctaBody": "Check our nine-topic FAQ accordion anytime.",
+      "ctaButton": "Browse FAQs",
+      "ctaHref": "/frequently-asked-questions"
+    },
+    {
+      "slug": "privacy-policy",
+      "eyebrow": "LEGAL & COMPLIANCE DRAFT",
+      "title": "Privacy Policy (Draft — Review Required)",
+      "lead": "Clearly marked draft template requiring legal and privacy counsel review before public launch.",
+      "badge": "DRAFT — Legal review required",
+      "isLegal": true,
+      "sections": [
+        {
+          "eyebrow": "DRAFT POLICY STRUCTURE",
+          "heading": "Data collection, security & individual rights.",
+          "body": "Before launching WeightLossAffordable.com, identify the legal entity controller, contact address, exact categories of personal information collected, retention schedules, cookie/analytics disclosures, processor agreements, and state privacy rights. Our demo contact form collects only name, email, and general inquiry topic — never sensitive medical intake data.",
+          "notice": "Do not publish without review by qualified healthcare privacy counsel."
+        }
+      ],
+      "ctaHeading": "Questions about website privacy practices?",
+      "ctaBody": "Send a general non-clinical inquiry.",
+      "ctaButton": "Contact Us",
+      "ctaHref": "/contact"
+    },
+    {
+      "slug": "terms-and-conditions",
+      "eyebrow": "LEGAL & COMPLIANCE DRAFT",
+      "title": "Terms & Conditions (Draft — Review Required)",
+      "lead": "Editable terms template requiring review by legal counsel prior to publication.",
+      "badge": "DRAFT — Legal review required",
+      "isLegal": true,
+      "sections": [
+        {
+          "eyebrow": "DRAFT TERMS",
+          "heading": "Website use, platform role & limitations.",
+          "body": "Specify the verified legal entity name, eligibility age, informational scope of the website, distinction between administrative platform services and independent medical practices, billing/cancellation rules, intellectual property rights, governing law, and dispute procedures.",
+          "notice": "Viewing this website does not create a physician-patient relationship or service contract."
+        }
+      ],
+      "ctaHeading": "Need general information?",
+      "ctaBody": "Reach our team through the non-clinical contact page.",
+      "ctaButton": "Contact Us",
+      "ctaHref": "/contact"
+    },
+    {
+      "slug": "medical-disclaimer",
+      "eyebrow": "CLINICAL & LEGAL DRAFT",
+      "title": "Medical Disclaimer (Draft — Review Required)",
+      "lead": "Important notice explaining the educational purpose of this website.",
+      "badge": "DRAFT — Clinical & legal review required",
+      "isLegal": true,
+      "sections": [
+        {
+          "eyebrow": "EDUCATIONAL PURPOSE ONLY",
+          "heading": "Not individualized medical advice.",
+          "body": "All content on WeightLossAffordable.com — including articles, treatment summaries, FAQs, and journey illustrations — is provided strictly for general educational purposes. It does not diagnose, treat, cure, or prevent any condition and never substitutes for consultation with a licensed physician or healthcare professional. In a medical emergency, call 911 immediately.",
+          "notice": "All clinical decisiones belong exclusively to independent licensed healthcare professionals."
+        }
+      ],
+      "ctaHeading": "Explore our educational guides",
+      "ctaBody": "Prepare thoughtful questions for your next healthcare visit.",
+      "ctaButton": "Browse Resources",
+      "ctaHref": "/resources"
+    },
+    {
+      "slug": "treatment-safety-information",
+      "eyebrow": "SAFETY COMPLIANCE DRAFT",
+      "title": "Treatment Safety Information (Draft — Review Required)",
+      "lead": "Placeholder safety disclosure page requiring review and approval by a licensed medical director before any treatment is offered.",
+      "badge": "DRAFT — Medical director sign-off required",
+      "isLegal": true,
+      "sections": [
+        {
+          "eyebrow": "IMPORTANT SAFETY DISCLOSURES",
+          "heading": "Boxed warnings, contraindications & compounded distinctions.",
+          "body": "Before publishing treatment-specific pages, include complete current FDA boxed warnings (including personal or family history of medullary thyroid carcinoma [MTC] or Multiple Endocrine Neoplasia syndrome type 2 [MEN 2] where applicable to GLP-1/GIP classes), pregnancy/breastfeeding contraindications, common and serious adverse reactions, drug interactions, and explicit notice that compounded medications prepared by 503A/503B pharmacies are not FDA-approved.",
+          "notice": "Never publish unreviewed clinical safety copy. Seek emergency care immediately for severe symptoms."
+        }
+      ],
+      "ctaHeading": "Review treatment literacy framework",
+      "ctaBody": "Return to our Treatment Information page.",
+      "ctaButton": "Treatment Information",
+      "ctaHref": "/treatment-information"
+    },
+    {
+      "slug": "cookie-policy",
+      "eyebrow": "LEGAL & PRIVACY DRAFT",
+      "title": "Cookie Policy (Draft — Review Required)",
+      "lead": "Disclosure draft covering functional storage, language preferences, and analytics consent.",
+      "badge": "DRAFT — Audit actual production scripts",
+      "isLegal": true,
+      "sections": [
+        {
+          "eyebrow": "STORAGE & COOKIES",
+          "heading": "Zero ad pixels in demo mode; language preference storage.",
+          "body": "This website uses lightweight browser storage (`wla_lang`) solely to remember whether you selected English (`EN`) or Spanish (`ES`). No advertising pixels or third-party health trackers are installed in demo mode. Never transmit health-related interactions to advertising pixels without legally verified authorization.",
+          "notice": "Audit all third-party plugins prior to launch."
+        }
+      ],
+      "ctaHeading": "Return to homepage",
+      "ctaBody": "Switch languages anytime with the live EN / ES toggle.",
+      "ctaButton": "Back to Home",
+      "ctaHref": "/"
+    },
+    {
+      "slug": "accessibility-statement",
+      "eyebrow": "ACCESSIBILITY DRAFT",
+      "title": "Accessibility Statement (Draft — Review Required)",
+      "lead": "Our ongoing commitment to keyboard navigation, readable contrast, reduced motion, and bilingual usability.",
+      "badge": "DRAFT — Add verified accessibility contact",
+      "isLegal": true,
+      "sections": [
+        {
+          "eyebrow": "INCLUSIVE DESIGN PRACTICES",
+          "heading": "Built for clarity across devices and assistive technologies.",
+          "body": "WeightLossAffordable.com incorporates semantic landmarks, visible focus rings, high-contrast typography, accessible accordion disclosures, keyboard arrow support in interactive guides, `prefers-reduced-motion` support, and descriptive image alt text. Add your verified accessibility support email and testing date prior to launch.",
+          "notice": "Let us know if you encounter any barrier while using the website."
+        }
+      ],
+      "ctaHeading": "Report a website usability issue",
+      "ctaBody": "Select 'Website or Elementor setup' on our contact form.",
+      "ctaButton": "Contact Us",
+      "ctaHref": "/contact"
+    },
+    {
+      "slug": "refund-cancellation-policy",
+      "eyebrow": "BILLING COMPLIANCE DRAFT",
+      "title": "Refund & Cancellation Policy (Draft — Review Required)",
+      "lead": "Placeholder policy template — actual billing, cancellation notice windows, and refund rules must be supplied by the business before launch.",
+      "badge": "DRAFT — Business & legal sign-off required",
+      "isLegal": true,
+      "sections": [
+        {
+          "eyebrow": "TRANSPARENT TERMS",
+          "heading": "State refund eligibility, pharmacy rules & cancellation steps clearly.",
+          "body": "Before accepting payments, specify exact billing cycles, how to cancel before renewal without hidden penalties, refund rules if a clinician determines a visitor is not eligible, and state pharmacy laws regarding dispensed prescription medications.",
+          "notice": "No payments are processed on this demo site."
+        }
+      ],
+      "ctaHeading": "Review package placeholders",
+      "ctaBody": "See how billing disclosures appear on our Pricing page.",
+      "ctaButton": "Pricing & Packages",
+      "ctaHref": "/pricing-and-packages"
+    },
+    {
+      "slug": "science-behind-treatment",
+      "title": "The science behind the treatment",
+      "eyebrow": "EDUCATIONAL INFORMATION",
+      "lead": "A plain-language overview of the receptor classes named in the supplied treatment content. It is educational, not personal medical advice.",
+      "badge": "Review scientific and clinical copy before publication",
+      "sections": [
+        {
+          "eyebrow": "RECEPTOR ACTIVITY",
+          "heading": "Different medicines, different receptor activity",
+          "body": "Semaglutide is described as a GLP-1 receptor agonist. Tirzepatide is described as acting on GLP-1 and GIP receptors. Do not imply that compounded preparations are the same as FDA-approved products. A licensed clinician determines whether any option is appropriate.",
+          "cards": [
+            {
+              "tag": "GLP-1",
+              "title": "Semaglutide",
+              "body": "Compounded semaglutide is shown here as a demo. Verify product source, pharmacy, preparation and current labeling."
+            },
+            {
+              "tag": "GLP-1 + GIP",
+              "title": "Tirzepatide",
+              "body": "Compounded tirzepatide is shown here as a demo. Verify product source, pharmacy, preparation and current labeling."
+            }
+          ],
+          "notice": "Medical and legal review required before publication."
+        }
+      ],
+      "ctaHeading": "Questions are welcome.",
+      "ctaBody": "Use the original eligibility questionnaire only after reviewing the privacy and security notices.",
+      "ctaButton": "Review treatment information",
+      "ctaHref": "/treatment-information"
+    },
+    {
+      "slug": "video-stories",
+      "title": "Video stories, shared with care",
+      "eyebrow": "VIDEO STORIES",
+      "lead": "A sample player is included for layout demonstration only. Replace it with an authorized, genuine story before publication.",
+      "badge": "Demo footage is not a testimonial",
+      "sections": [],
+      "ctaHeading": "Your story deserves consent and context.",
+      "ctaBody": "Only publish a real patient story with permission, substantiation, captions and required review.",
+      "ctaButton": "Review story placeholders",
+      "ctaHref": "/patient-reviews"
+    },
+    {
+      "slug": "calculators",
+      "title": "Helpful numbers, with context",
+      "eyebrow": "EDUCATIONAL TOOLS",
+      "lead": "Simple calculations only. These tools do not diagnose, determine treatment eligibility or predict results.",
+      "badge": "No medical data is saved by these calculators",
+      "sections": [],
+      "ctaHeading": "A calculator is not a clinical assessment.",
+      "ctaBody": "Talk with a qualified professional about your health questions.",
+      "ctaButton": "Open the eligibility questionnaire",
+      "ctaHref": "/consultation-eligibility"
+    },
+    {
+      "slug": "semaglutide",
+      "title": "Semaglutide",
+      "eyebrow": "TREATMENT INFORMATION · DEMO",
+      "lead": "Compounded semaglutide · GLP-1 receptor agonist. This is client-supplied demo content; verify the live product source, pharmacy and terms before publication.",
+      "badge": "Demo only · requires clinical, pharmacy and legal verification",
+      "sections": [],
+      "ctaHeading": "Check if you qualify",
+      "ctaBody": "The questionnaire is not a diagnosis or guarantee of a prescription. Public submissions remain disabled by default.",
+      "ctaButton": "Start the eligibility questions",
+      "ctaHref": "/consultation-eligibility"
+    },
+    {
+      "slug": "tirzepatide",
+      "title": "Tirzepatide",
+      "eyebrow": "TREATMENT INFORMATION · DEMO",
+      "lead": "Compounded tirzepatide · GLP-1 + GIP receptor agonist. This is client-supplied demo content; verify the live product source, pharmacy and terms before publication.",
+      "badge": "Demo only · requires clinical, pharmacy and legal verification",
+      "sections": [],
+      "ctaHeading": "Check if you qualify",
+      "ctaBody": "The questionnaire is not a diagnosis or guarantee of a prescription. Public submissions remain disabled by default.",
+      "ctaButton": "Start the eligibility questions",
+      "ctaHref": "/consultation-eligibility"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "questions-for-a-weight-management-conversation",
+      "title": "What does a weight-management conversation include?",
+      "category": "Getting started",
+      "readTime": "4 min read",
+      "prompt": "Prepare for a thoughtful first conversation",
+      "excerpt": "A practical framework for organizing your goals, expectations, and questions before speaking with a qualified healthcare professional.",
+      "paragraphs": [
+        "Preparing a short list of questions ahead of an appointment can make a healthcare conversation calmer, clearer, and far more productive.",
+        "Start by asking who provides clinical care, how professional licensure is verified, what an evaluation involves, and whether follow-up support is included over time.",
+        "If prescription treatments are discussed, ask your clinician to explain how a medication class works, whether a product is FDA-approved or compounded, potential side effects, contraindications, and non-medication alternatives.",
+        "Request clear written information on total costs, billing frequency, cancellation policies, and privacy protections before sharing payment details or sensitive records."
+      ],
+      "questions": [
+        "Which evidence-based options fit my health priorities?",
+        "What realistic benefits, risks, and limitations apply?",
+        "How does ongoing follow-up and clinical support work?"
+      ],
+      "disclaimer": "Educational draft only — not individualized medical advice. Review with a qualified healthcare professional before publication.",
+      "imageFile": "hero-care.jpg"
+    },
+    {
+      "slug": "building-everyday-wellbeing-at-your-own-pace",
+      "title": "Small, practical habits that support everyday wellbeing",
+      "category": "Everyday wellbeing",
+      "readTime": "3 min read",
+      "prompt": "Build sustainable routines without all-or-nothing rules",
+      "excerpt": "Ideas for discussing movement, balanced meals, rest, and daily routines in ways that respect real life and individual health needs.",
+      "paragraphs": [
+        "Sustainable wellbeing rarely comes from rigid, punitive routines. Work schedules, family caregiving, culture, sleep, stress, and medical history all shape what works in everyday life.",
+        "Many clinicians encourage focusing on approachable, repeatable habits — such as regular meals with adequate protein and fiber, enjoyable walking or gentle movement, and consistent sleep routines.",
+        "Avoid programs that promise identical weight loss for every person or frame health around guilt. Meaningful progress looks different from person to person.",
+        "Bring your real schedule and preferences into the conversation with a licensed clinician or registered dietitian so any plan fits your life."
+      ],
+      "questions": [
+        "Which one small habit feels realistic for my schedule this week?",
+        "How can balanced meals support steady daily energy?",
+        "What kind of accountability feels supportive rather than stressful?"
+      ],
+      "disclaimer": "General wellness education draft only. Always consult a qualified healthcare professional before changing exercise, nutrition, or medical plans.",
+      "imageFile": "lifestyle-walk.jpg"
+    },
+    {
+      "slug": "how-to-evaluate-health-information-online",
+      "title": "How to evaluate telehealth & weight-loss claims online",
+      "category": "Health literacy",
+      "readTime": "4 min read",
+      "prompt": "Spot trustworthy transparency vs. unsupported hype",
+      "excerpt": "Essential questions to ask about authorship, clinical evidence, medication disclosures, pricing clarity, and privacy safeguards.",
+      "paragraphs": [
+        "Online weight-management websites vary widely in transparency. Taking two minutes to check how information is presented can protect both your health and your wallet.",
+        "Look for clear identification of independent licensed medical providers, honest distinction between FDA-approved medications and compounded preparations, and realistic explanations that not every visitor qualifies for prescription treatment.",
+        "Be cautious of countdown timers, guaranteed weight-loss numbers, unverified before-and-after claims, or ordinary contact forms asking for your medical history.",
+        "Any true medical intake should take place only on an appropriately secured healthcare platform after clear privacy disclosures."
+      ],
+      "questions": [
+        "Who wrote and clinically reviewed the information on this page?",
+        "Are risks, contraindications, and limitations stated clearly?",
+        "Where is sensitive health data collected and how is it protected?"
+      ],
+      "disclaimer": "Educational health-literacy draft only. Does not endorse or verify any specific provider, pharmacy, or treatment.",
+      "imageFile": "nutrition.jpg"
+    }
+  ],
+  "draft_placeholders": [
+    {
+      "post_type": "wla_service",
+      "slug": "medical-weight-management-consultations-demo",
+      "title": "[DEMO PLACEHOLDER] Medical Weight-Management Consultations",
+      "content": "Illustrative draft record. Confirm licensed clinical partners, operating states, scope, and fees before publishing."
+    },
+    {
+      "post_type": "wla_treatment",
+      "slug": "glp-1-educational-overview-demo",
+      "title": "[DEMO PLACEHOLDER] GLP-1 Pathway Educational Overview",
+      "content": "Illustrative clinical draft requiring licensed medical director review and current FDA warning disclosures prior to publication."
+    },
+    {
+      "post_type": "wla_package",
+      "slug": "clinician-guided-program-demo",
+      "title": "[DEMO PLACEHOLDER] Clinician-Guided Program ($[XXX]/mo)",
+      "content": "Placeholder package draft. Confirm live monthly pricing, inclusions, exclusions, and refund terms before launch."
+    },
+    {
+      "post_type": "wla_review",
+      "slug": "sample-testimonial-placeholder-demo",
+      "title": "[FICTIONAL SAMPLE — NOT A REAL PATIENT] Layout Preview",
+      "content": "Explicitly labeled fictional layout placeholder. Replace solely with documented, authorized testimonials."
+    },
+    {
+      "post_type": "wla_team",
+      "slug": "clinical-advisor-profile-placeholder",
+      "title": "[DEMO PLACEHOLDER] Verified Clinician Profile Slot",
+      "content": "Draft slot reserved for verified healthcare partner credentials and state license disclosures."
+    }
+  ]
+}
